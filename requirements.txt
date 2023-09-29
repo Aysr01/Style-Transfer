@@ -1,0 +1,5 @@
+numpy
+PILLOW
+IPython
+matplotlib.pyplot
+tensorflow
